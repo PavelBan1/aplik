@@ -1,0 +1,40 @@
+body {
+    background-color: #fef4ea;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    border-radius: 15px;
+    background: #ffffff;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #f1c693;
+    border: none;
+}
+
+.table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+    .table th {
+        background: #343a40;
+        color: white;
+    }
